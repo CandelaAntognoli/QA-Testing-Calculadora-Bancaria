@@ -22,6 +22,9 @@ Se diseñaron y ejecutaron **4 Casos de Prueba**, obteniendo los siguientes resu
 
 ## 🐞 Bug Destacado
 Durante la ejecución del **TC-004**, se detectó que el sistema asigna una tasa del **7%** al monto exacto de **$10.000**, cuando según los requerimientos de negocio, dicho valor debería estar incluido en el rango del **5%**. Este error representa un riesgo financiero de sobrepago de intereses por parte del banco.
+<p align="center">
+  <img src="./img/bug-report.png" alt="Bug Report Simulador Bancario" width="700">
+</p>
 
 ## 📄 Documentación Completa
 Puedes revisar el informe técnico detallado con capturas de pantalla y evidencias en el siguiente enlace:
