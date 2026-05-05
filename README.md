@@ -28,4 +28,4 @@ Durante la ejecución del **TC-004**, se detectó que el sistema asigna una tasa
 
 ## 📄 Documentación Completa
 Puedes revisar el informe técnico detallado con capturas de pantalla y evidencias en el siguiente enlace:
-👉 **[reporte/Reporte-Testing-Calculadora-Bancaria-Candela-Antognoli.pdf]**
+👉 **[https://github.com/CandelaAntognoli/QA-Testing-Calculadora-Bancaria/blob/main/reporte/Reporte-Testing-Calculadora-Bancaria-Candela-Antognoli.pdf]**
